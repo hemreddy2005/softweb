@@ -899,10 +899,10 @@ contact
 </html>
 ```
 ## OUTPUT:
-![alt text](<IMG 1.png>)
-![alt text](<IMG 2.png>)
-![alt text](<IMG 3.png>)
-![alt text](<IMG 4.png>)
+![alt text](S1.png)
+![alt text](S2.png)
+![alt text](S3.png)
+![alt text](S4.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
